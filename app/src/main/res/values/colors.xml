@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="blue">#013BEA</color>
+    <color name="gray">#7A7A7A</color>
+    <color name="light_red">#FF9E78</color>
+    <color name="orange">#D57809</color>
+    <color name="warning">#553131</color>
+    <color name="green">#2F9503</color>
+    <color name="current_day_bg">#B71C1C</color>
+</resources>
