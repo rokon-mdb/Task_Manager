@@ -1,5 +1,8 @@
-﻿# Task_Manager
- 
+﻿# Task_Manager (android application)
+# Developer: 
+	Kamrul Hasan
+	mail: rokon.mdb@gmail.com
+ 	phone: 01521457927
 # About:
 	“Task Manager” is an Android Application where users can save tasks with description and get an alarm with the task details.
 
